@@ -69,7 +69,7 @@ function sendlogstodiscord(source, steam, ip,discord)
 -- kivételesen editelheted!
 --local draz_webhook = "https://discord.com/api/webhooks/916693/......" -- webhook log-oknak
 
-     local draz_time = os.date("github.com/drazoxXD") --igazából erre már én se emlékszem! MI A TÖK EZ?!?!?!
+     local draz_time = os.date("%c | github.com/drazoxXD") --igazából erre már én se emlékszem! MI A TÖK EZ?!?!?!
 
             local draz_embed = {
         {
