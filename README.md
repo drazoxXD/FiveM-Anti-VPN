@@ -1,5 +1,12 @@
 # anti-vpn
-drazox readme
+drazox readme:
+A scriptet élőben a midnight country roleplay szerverén láthatod!
+Discord:https://discord.gg/n8qF3de78Z
+
+
+
+
+
 Ez egy frissítés az antivpn-hez!
 Teljesen magyar! 
 Semmi esx vagy ilyen szarok nem kellenek hozzá!
